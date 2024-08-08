@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketzure&label=Profile%20views&color=0e75b6&style=flat" alt="sanketzure" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0MGJhcnE5dTlnYXFrcTg3NW13azZybzA4ZGdpeHVzOXNoaHV3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp")
+(img align="right" alt="Coding" width="400" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F0MGJhcnE5dTlnYXFrcTg3NW13azZybzA4ZGdpeHVzOXNoaHV3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRuZGNydHczbjB3eHB1MjVseW02ZjJsamQwcTV2NzZ0dmF6cnFrbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)")
 
 <p align="left"> <a href="https://twitter.com/sz3dsrvr" target="blank"><img src="https://img.shields.io/twitter/follow/sz3dsrvr?logo=twitter&style=for-the-badge" alt="sz3dsrvr" /></a> </p>
 
