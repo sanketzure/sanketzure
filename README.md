@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead](https://w.wallhaven.cc/full/2y/wallhaven-2yvywx.png)]
+![MasterHead](https://w.wallhaven.cc/full/2y/wallhaven-2yvywx.png)
 <h1 align="center">Hi 👋, I'm Sanket Zure</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
