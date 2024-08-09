@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![MasterHead]([[https://w.wallhaven.cc/full/2y/wallhaven-2yvywx.png](https://i.pinimg.com/originals/96/18/1f/96181fa5fd057786db930d4224a6b694.gif)](https://gifdb.com/images/high/gojo-satoru-waving-a-hand-wybn7rcs8ums1xum.webp))
+![MasterHead](https://gifdb.com/images/high/gojo-satoru-waving-a-hand-wybn7rcs8ums1xum.webp)
 <h1 align="center">Hi 👋, I'm Sanket Zure</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
