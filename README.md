@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![MasterHead](https://gifdb.com/images/high/cute-jjk-gojo-walking-8y3ximw7vfyrundg.webp)
+![MasterHead](https://i.ibb.co/GFf1Q3Z/wallhaven-2yvywx-1024x256.png)
 <h1 align="center">Hi 👋, I'm Sanket Zure</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
