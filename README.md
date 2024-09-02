@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![MasterHead](https://i.ibb.co/GFf1Q3Z/wallhaven-2yvywx-1024x256.png)
+![MasterHead](https://imgs.search.brave.com/mSrdHUtDsnCY2h2wYVGGuSdUS1Vhdtwg_zxC__CKSv0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXIuZm9yZnVu/LmNvbS9mZXRjaC84/OS84OTc1NzljZDk5/ZDIzMzY2NTg3Mjhi/MzdhYjZhZWIxOC5q/cGVn)
 <h1 align="center">Hi 👋, I'm Sanket Zure</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
